@@ -1,0 +1,84 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "book": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "catcher-in-the-rye",
+      "description": "A classic novel about the experiences of a teenager named Holden Caulfield in New York City.",
+      "imgs":"https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg"
+    },
+    {
+      "id": "2",
+      "book": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "A powerful story of racial injustice and moral growth in the American South during the 1930s.",
+      "imgs":"https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+    },
+    {
+      "id": "3",
+      "book": "1984",
+      "author": "George Orwell",
+      "slug": "1984",
+      "description": "A dystopian novel that explores the consequences of government overreach and surveillance.",
+      "imgs":"https://s3.amazonaws.com/adg-bucket/1984-george-orwell/3423-medium.jpg"
+    },
+    {
+      "id": "4",
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "the-great-gatsby",
+      "description": "An exploration of the American Dream and the decadence of the Roaring Twenties.",
+      "imgs":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_hr.jpg"
+    },
+    {
+      "id": "5",
+      "book": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter",
+      "description": "The first book in the popular Harry Potter series, introducing the world of magic and wizardry.",
+      "imgs":"https://cdnattic.atticbooks.co.ke/img/H754466.jpg"
+    },
+    {
+      "id": "6",
+      "book": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-hobbit",
+      "description": "An adventure novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland.",
+      "imgs":"https://m.media-amazon.com/images/I/71k--OLmZKL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "7",
+      "book": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "slug": "pride-and-prejudice",
+      "description": "A classic romance novel exploring societal expectations, love, and misunderstandings in 19th-century England.",
+      "imgs":"https://cdn2.penguin.com.au/covers/original/9780141949055.jpg"
+    },
+    {
+      "id": "8",
+      "book": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "slug": "the-lord-of-the-rings",
+      "description": "An epic fantasy trilogy that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "imgs":"https://m.media-amazon.com/images/I/71VjmMcE-rL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "9",
+      "book": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "slug": "the-hunger-games",
+      "description": "A dystopian novel set in a post-apocalyptic world where teenagers are chosen to participate in a televised fight to the death.",
+      "imgs":"https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "10",
+      "book": "Frankenstein",
+      "author": "Mary Shelley",
+      "slug": "frankenstein",
+      "description": "A gothic science fiction novel exploring the consequences of playing god and creating life.",
+      "imgs":"https://m.media-amazon.com/images/I/81TVqiv-ctL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
